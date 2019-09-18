@@ -1,2 +1,2 @@
-# mysql-solved
-mySQL project from course
+# mysql
+mySQL project f
