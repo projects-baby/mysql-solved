@@ -1,2 +1,2 @@
 # mysql
-mySQL project f
+mySQL
